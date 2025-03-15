@@ -1,0 +1,11 @@
+build
+__pycache__
+dist
+installer - Test.iss
+installer.iss
+installer1.iss
+main.spec
+PDF_Splitter_1.5_setup.exe
+PDF_Splitter_win_x64_setup.exe
+pdfsplitter.spec
+requirements.txt
